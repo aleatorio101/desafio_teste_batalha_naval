@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "tipo": "porta_avioes",
+      "linha": 0,
+      "coluna": 0,
+      "orientacao": "H"
+    },
+    {
+      "tipo": "encouracado",
+      "linha": 2,
+      "coluna": 0,
+      "orientacao": "H"
+    },
+    {
+      "tipo": "submarino",
+      "linha": 4,
+      "coluna": 0,
+      "orientacao": "H"
+    },
+    {
+      "tipo": "destroier",
+      "linha": 6,
+      "coluna": 0,
+      "orientacao": "H"
+    }
+  ],
+  [
+    {
+      "tipo": "porta_avioes",
+      "linha": 0,
+      "coluna": 0,
+      "orientacao": "H"
+    },
+    {
+      "tipo": "encouracado",
+      "linha": 2,
+      "coluna": 0,
+      "orientacao": "H"
+    },
+    {
+      "tipo": "submarino",
+      "linha": 4,
+      "coluna": 0,
+      "orientacao": "H"
+    },
+    {
+      "tipo": "destroier",
+      "linha": 6,
+      "coluna": 0,
+      "orientacao": "H"
+    }
+  ]
+]
